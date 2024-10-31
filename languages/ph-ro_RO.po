@@ -1,0 +1,239 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ph\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-16 10:13-0300\n"
+"PO-Revision-Date: 2012-03-13 15:46+0200\n"
+"X-Poedit-Language: Romanian\n"
+"X-Poedit-Country: Romania\n"
+"Language-Team: Web Geeks\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /home/leo/devel/wp31/wp-content/plugins/post-highlights\n"
+
+#: /home/leo/devel/wp31/wp-content/plugins/post-highlights/post-highlights.php:135
+msgid "Loading"
+msgstr "Încărcare"
+
+#: /home/leo/devel/wp31/wp-content/plugins/post-highlights/post-highlights.php:154
+msgid "Edit"
+msgstr "Editare"
+
+#: /home/leo/devel/wp31/wp-content/plugins/post-highlights/post-highlights.php:155
+msgid "Hide Settings"
+msgstr "Ascunde setările"
+
+#: /home/leo/devel/wp31/wp-content/plugins/post-highlights/post-highlights.php:162
+msgid "only highlighted"
+msgstr "doar a subliniat"
+
+#: /home/leo/devel/wp31/wp-content/plugins/post-highlights/post-highlights.php:166
+msgid "Highlight"
+msgstr "Evidenţiere"
+
+#: /home/leo/devel/wp31/wp-content/plugins/post-highlights/post-highlights.php:171
+msgid "Post Highlight Settings"
+msgstr "Post evidenţia setările"
+
+#: /home/leo/devel/wp31/wp-content/plugins/post-highlights/post-highlights.php:171
+msgid "Settings"
+msgstr "Setări"
+
+#: /home/leo/devel/wp31/wp-content/plugins/post-highlights/post-highlights.php:172
+msgid "Post Highlight Options"
+msgstr "Opţiunile de evidenţiere post"
+
+#: /home/leo/devel/wp31/wp-content/plugins/post-highlights/post-highlights.php:172
+msgid "Post Highlights"
+msgstr "Highlights de post"
+
+#: /home/leo/devel/wp31/wp-content/plugins/post-highlights/post-highlights.php:173
+msgid "Post Highlight Permissions"
+msgstr "Post evidenţia permisiuni"
+
+#: /home/leo/devel/wp31/wp-content/plugins/post-highlights/post-highlights.php:173
+msgid "Permissions"
+msgstr "Permisiuni"
+
+#: /home/leo/devel/wp31/wp-content/plugins/post-highlights/post-highlights.php:184
+msgid "Global Options"
+msgstr "Opţiuni globale"
+
+#: /home/leo/devel/wp31/wp-content/plugins/post-highlights/post-highlights.php:185
+#: /home/leo/devel/wp31/wp-content/plugins/post-highlights/post-highlights.php:206
+msgid "Options"
+msgstr "Opţiuni"
+
+#: /home/leo/devel/wp31/wp-content/plugins/post-highlights/post-highlights.php:189
+msgid "Delay: The time between each highlight in miliseconds (1 sec = 1000) - default = 8000"
+msgstr "Întârziere: Timpul între fiecare evidenţia în miliseconds (1 sec = 1000) - implicit = 8000"
+
+#: /home/leo/devel/wp31/wp-content/plugins/post-highlights/post-highlights.php:190
+msgid "Number of posts: Maximum number of posts to display (0 or empty = unlimited) - default = unlimited"
+msgstr "Numărul de posturi: numărul maxim de posturi pentru a afişa (0 sau gol = nelimitat)-implicit = nelimitat"
+
+#: /home/leo/devel/wp31/wp-content/plugins/post-highlights/post-highlights.php:205
+msgid "Theme Options"
+msgstr "Opţiuni de temă"
+
+#: /home/leo/devel/wp31/wp-content/plugins/post-highlights/post-highlights.php:221
+msgid "These settings applies to all Post Highlight themes"
+msgstr "Aceste setări se aplică la toate temele Post Evidenţiere"
+
+#: /home/leo/devel/wp31/wp-content/plugins/post-highlights/post-highlights.php:226
+msgid "Current Theme"
+msgstr "Temă curent"
+
+#: /home/leo/devel/wp31/wp-content/plugins/post-highlights/post-highlights.php:248
+msgid "Order:"
+msgstr "Comandă:"
+
+#: /home/leo/devel/wp31/wp-content/plugins/post-highlights/post-highlights.php:250
+msgid "Order Value"
+msgstr "Valoarea de ordine"
+
+#: /home/leo/devel/wp31/wp-content/plugins/post-highlights/post-highlights.php:250
+msgid "Newer to Older"
+msgstr "Mai nou de vârstă"
+
+#: /home/leo/devel/wp31/wp-content/plugins/post-highlights/post-highlights.php:250
+msgid "Older to Newer"
+msgstr "Mai în vârstă să mai noi"
+
+#: /home/leo/devel/wp31/wp-content/plugins/post-highlights/post-highlights.php:265
+msgid "\"Order Value\" refers to the Order field that appears in the Post highlights dialog box when you highlight a post"
+msgstr " se referă la câmpul comandă care apare în caseta de dialog Post repere atunci când aveţi de a evidenţia un post"
+
+#: /home/leo/devel/wp31/wp-content/plugins/post-highlights/post-highlights.php:272
+msgid "I want Post Highlights to automatically create and use an image with these dimensions:"
+msgstr "Vreau Post scoate în evidenţă automat crearea şi utilizarea unei imagini cu aceste dimensiuni:"
+
+#: /home/leo/devel/wp31/wp-content/plugins/post-highlights/post-highlights.php:274
+msgid "Width:"
+msgstr "Lăţime:"
+
+#: /home/leo/devel/wp31/wp-content/plugins/post-highlights/post-highlights.php:277
+msgid "Height:"
+msgstr "Înălţime:"
+
+#: /home/leo/devel/wp31/wp-content/plugins/post-highlights/post-highlights.php:285
+msgid "These settings applies only to the active theme"
+msgstr "Aceste setări se aplică numai la tema active"
+
+#: /home/leo/devel/wp31/wp-content/plugins/post-highlights/post-highlights.php:310
+#: /home/leo/devel/wp31/wp-content/plugins/post-highlights/post-highlights.php:350
+msgid "Save Changes"
+msgstr "Salvaţi modificările"
+
+#: /home/leo/devel/wp31/wp-content/plugins/post-highlights/post-highlights.php:322
+msgid "Who can Highlight Posts?"
+msgstr "Cine poate evidenţia posturi?"
+
+#: /home/leo/devel/wp31/wp-content/plugins/post-highlights/widget.php:6
+msgid "Adds Post Highlights to the sidebar"
+msgstr "Adaugă repere Post la bara laterală"
+
+#: /home/leo/devel/wp31/wp-content/plugins/post-highlights/widget.php:36
+msgid "Title:"
+msgstr "Titlu:"
+
+#: /home/leo/devel/wp31/wp-content/plugins/post-highlights/widget.php:41
+msgid "Theme:"
+msgstr "Tema:"
+
+#: /home/leo/devel/wp31/wp-content/plugins/post-highlights/themes/default/settings.php:14
+#: /home/leo/devel/wp31/wp-content/plugins/post-highlights/themes/default-2/settings.php:18
+msgid "Width"
+msgstr "Lăţime"
+
+#: /home/leo/devel/wp31/wp-content/plugins/post-highlights/themes/default/settings.php:15
+#: /home/leo/devel/wp31/wp-content/plugins/post-highlights/themes/default-2/settings.php:19
+msgid "Height"
+msgstr "Înălţime"
+
+#: /home/leo/devel/wp31/wp-content/plugins/post-highlights/themes/default/settings.php:16
+msgid "Background color for the navigation arrows (e.g #FFCC00 or red)"
+msgstr "Culoare de fundal pentru săgeţile de navigare (de exemplu # FFCC00 sau roşu)"
+
+#: /home/leo/devel/wp31/wp-content/plugins/post-highlights/themes/default-2/index.php:32
+msgid "Next"
+msgstr "Următorul"
+
+#: /home/leo/devel/wp31/wp-content/plugins/post-highlights/themes/default-2/index.php:33
+msgid "Previous"
+msgstr "Anterioară"
+
+#: /home/leo/devel/wp31/wp-content/plugins/post-highlights/themes/default-2/settings.php:20
+msgid "Background color for the content and navigation arrows (e.g #FFCC00 or red)"
+msgstr "Culoare de fundal pentru săgeţile de conţinut şi de navigare (de exemplu # FFCC00 sau roşu)"
+
+#: /home/leo/devel/wp31/wp-content/plugins/post-highlights/ajax/ph_settings.php:19
+msgid "Settings Updated"
+msgstr "Setări actualizate"
+
+#: /home/leo/devel/wp31/wp-content/plugins/post-highlights/ajax/ph_settings.php:24
+msgid "Choose a picture from your post"
+msgstr "Selectaţi o imagine din post-ul"
+
+#: /home/leo/devel/wp31/wp-content/plugins/post-highlights/ajax/ph_settings.php:46
+msgid "Or enter URL for the picture"
+msgstr "Sau introduceţi URL-ul pentru imaginea"
+
+#: /home/leo/devel/wp31/wp-content/plugins/post-highlights/ajax/ph_settings.php:52
+msgid "Enter a headline"
+msgstr "Introduceţi un titlu"
+
+#: /home/leo/devel/wp31/wp-content/plugins/post-highlights/ajax/ph_settings.php:54
+msgid "This will be displayed under the post's title:"
+msgstr "Acest lucru va fi afişat în post's title:"
+
+#: /home/leo/devel/wp31/wp-content/plugins/post-highlights/ajax/ph_settings.php:60
+msgid "Order"
+msgstr "Comandă"
+
+#: /home/leo/devel/wp31/wp-content/plugins/post-highlights/ajax/ph_settings.php:62
+msgid "Select the display order."
+msgstr "Selectaţi ordinea de afişare."
+
+#~ msgid "by"
+#~ msgstr "de"
+
+#~ msgid "No posts highlighted"
+#~ msgstr "Nu posturi subliniat"
+
+#~ msgid "Background color (default: #FFCC00)"
+#~ msgstr "Culoare de fundal (implicit: # FFCC00)"
+
+#~ msgid ""
+#~ "Select the display order. Randomize using the same value for multiple "
+#~ "posts."
+#~ msgstr ""
+
+#~ msgid "Delay"
+#~ msgstr "Întârziere"
+
+#~ msgid "Button Color"
+#~ msgstr "Butonul culoare"
+
+#~ msgid "The color of the next and previous buttons"
+#~ msgstr "Culoarea butoanele următor şi precedent"
+
+#~ msgid "Size"
+#~ msgstr "Dimensiunea"
+
+#~ msgid ""
+#~ "You can easily create a custom size from the .FLA file available at the "
+#~ "plugin's home page. More info at the README.txt file."
+#~ msgstr ""
+#~ "Você pode facilmente criar um tamanho personlizado a partir do arquivo ."
+#~ "FLA disponível na página do plugin. Mais informações no arquivo README.txt"
+
+#~ msgid "The width of the Flash movie"
+#~ msgstr "Lăţimea de la film Flash"
+
+#~ msgid "The background color of the Flash movie"
+#~ msgstr "Culoarea de fundal a fulger film"

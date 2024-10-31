@@ -1,0 +1,15 @@
+/* Lets keep loading process beautiful */
+#posthighlights_container .ph_post div, .ph-hide-while-loading { display: none; }
+#posthighlights_container { margin-top: 0em; padding: 5px; text-align: center; position: relative; height: 90px; width: 238px; border:1px solid #ccc; background: #f0f0f0; }
+#posthighlights_container .ph-canvas { position: absolute !important; width: 90px; height: 90px; border: none; }
+#posthighlights_container .ph_picture { position: absolute; }
+.ph-navigation { position: absolute; top: -2em; right: 0; }
+.ph-navigation a { border: none; }
+#ph-numeric-nav { float: left; }
+#ph-numeric-nav ul, #ph-numeric-nav ul li { list-style-type: none !important; }
+#posthighlights_container #ph-next-nav, #posthighlights_container #ph-prev-nav, #ph-numeric-nav li { float: left; cursor: pointer; margin: 0 2px; }
+#ph-numeric-nav li.current a { color: #900; }
+#posthighlights_container .ph_content { position: absolute !important; left: 95px !important; /* importants are needed for i.E 6 */ width: 140px; z-index: 2; padding: 5px; text-align: left; }
+.ph_picture a { border: none; }
+.ph_content p { margin: 0; }
+

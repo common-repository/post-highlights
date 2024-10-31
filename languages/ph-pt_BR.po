@@ -1,0 +1,251 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ph\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-12 14:48-0300\n"
+"PO-Revision-Date: 2013-12-12 14:52-0300\n"
+"Last-Translator: Rodrigo Primo <rodrigo@hacklab.com.br>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../post-highlights.php:126
+msgid "Loading"
+msgstr "Carregando"
+
+#: ../post-highlights.php:145
+msgid "Edit"
+msgstr "Editar"
+
+#: ../post-highlights.php:146
+msgid "Hide Settings"
+msgstr "Ocultar Configurações"
+
+#: ../post-highlights.php:163
+msgid "only highlighted"
+msgstr "Só Highlights"
+
+#: ../post-highlights.php:167
+msgid "Highlight"
+msgstr "Destaque"
+
+#: ../post-highlights.php:172
+msgid "Post Highlight Settings"
+msgstr "Opções do Post Highlights"
+
+#: ../post-highlights.php:172
+msgid "Settings"
+msgstr "Configurações"
+
+#: ../post-highlights.php:173
+msgid "Post Highlight Options"
+msgstr "Opções do Post Highlights"
+
+#: ../post-highlights.php:173
+msgid "Post Highlights"
+msgstr "Post Highlights"
+
+#: ../post-highlights.php:174
+msgid "Post Highlight Permissions"
+msgstr "Permissões do Post Highlights"
+
+#: ../post-highlights.php:174
+msgid "Permissions"
+msgstr "Permissões"
+
+#: ../post-highlights.php:185
+msgid "Global Options"
+msgstr "Opções Globais"
+
+#: ../post-highlights.php:186 ../post-highlights.php:207
+msgid "Options"
+msgstr "Opções"
+
+#: ../post-highlights.php:190
+msgid ""
+"Delay: The time between each highlight in miliseconds (1 sec = 1000) - "
+"default = 8000"
+msgstr ""
+"Delay: O tempo entre cada destaque em milisegundos (1 seg = 1000) - default "
+"= 8000"
+
+#: ../post-highlights.php:191
+msgid ""
+"Number of posts: Maximum number of posts to display (0 or empty = unlimited) "
+"- default = unlimited"
+msgstr ""
+"Número de posts: Número máximo de posts que ficarão em destaque (0 ou vazio "
+"= ilimitado) - padrão = ilimitado"
+
+#: ../post-highlights.php:206
+msgid "Theme Options"
+msgstr "Opções do Tema"
+
+#: ../post-highlights.php:222
+msgid "These settings applies to all Post Highlight themes"
+msgstr "Essas configurações se aplicam a todos os tema do Post Highlights"
+
+#: ../post-highlights.php:227
+msgid "Current Theme"
+msgstr "Tema Atual"
+
+#: ../post-highlights.php:249
+msgid "Order:"
+msgstr "Ordem:"
+
+#: ../post-highlights.php:251
+msgid "Order Value"
+msgstr "Ordem"
+
+#: ../post-highlights.php:251
+msgid "Newer to Older"
+msgstr "Do mais novo para o mais velho"
+
+#: ../post-highlights.php:251
+msgid "Older to Newer"
+msgstr "Do mais velho para o mais novo"
+
+#: ../post-highlights.php:266
+msgid ""
+"\"Order Value\" refers to the Order field that appears in the Post "
+"highlights dialog box when you highlight a post"
+msgstr ""
+"\"Ordem\" se refere ao campo Ordem que aparece na caixa de diálogo quando "
+"você clica para selecionar um post para o Post Highlights"
+
+#: ../post-highlights.php:273
+msgid ""
+"I want Post Highlights to automatically create and use an image with these "
+"dimensions:"
+msgstr ""
+"Eu quero que o Post Highlights crie e use um thumbnail automaticamente com "
+"este tamanho:"
+
+#: ../post-highlights.php:275
+msgid "Width:"
+msgstr "Largura:"
+
+#: ../post-highlights.php:278
+msgid "Height:"
+msgstr "Altura:"
+
+#: ../post-highlights.php:286
+msgid "These settings applies only to the active theme"
+msgstr "Essas configurações se aplicam apenas ao tema atual"
+
+#: ../post-highlights.php:311 ../post-highlights.php:348
+msgid "Save Changes"
+msgstr "Salvar Modificações"
+
+#: ../post-highlights.php:323
+msgid "Who can Highlight Posts?"
+msgstr "Quem pode selecionar Highlights?"
+
+#: ../widget.php:6
+msgid "Adds Post Highlights to the sidebar"
+msgstr "Adiciona o Post Highlights na barra lateral"
+
+#: ../widget.php:36
+msgid "Title:"
+msgstr "Título:"
+
+#: ../widget.php:41
+msgid "Theme:"
+msgstr "Tema:"
+
+#: ../ajax/ph_settings.php:19
+msgid "Settings Updated"
+msgstr "Configurações Atualizadas"
+
+#: ../ajax/ph_settings.php:24
+msgid "Choose a picture from your post"
+msgstr "Escolha uma das imagens do seu artigo"
+
+#: ../ajax/ph_settings.php:46
+msgid "Or enter URL for the picture"
+msgstr "Ou entre a URL de uma imagem"
+
+#: ../ajax/ph_settings.php:52
+msgid "Enter a headline"
+msgstr "Entre com um subtítulo"
+
+#: ../ajax/ph_settings.php:54
+msgid "This will be displayed under the post's title:"
+msgstr "Este texto será exibido abaixo do título do artigo:"
+
+#: ../ajax/ph_settings.php:60
+msgid "Order"
+msgstr "Ordem"
+
+#: ../ajax/ph_settings.php:62
+msgid "Select the display order."
+msgstr "Selecione a ordem de exibição"
+
+#: ../themes/default-2/settings.php:18 ../themes/default/settings.php:14
+msgid "Width"
+msgstr "Largura"
+
+#: ../themes/default-2/settings.php:19 ../themes/default/settings.php:15
+msgid "Height"
+msgstr "Altura"
+
+#: ../themes/default-2/settings.php:20
+msgid ""
+"Background color for the content and navigation arrows (e.g #FFCC00 or red)"
+msgstr "Cor de fundo para as setas e conteúdo (ex: #FFCC00 ou red)"
+
+#: ../themes/default-2/index.php:32
+msgid "Next"
+msgstr "Próximo"
+
+#: ../themes/default-2/index.php:33
+msgid "Previous"
+msgstr "Anterior"
+
+#: ../themes/default/settings.php:16
+msgid "Background color for the navigation arrows (e.g #FFCC00 or red)"
+msgstr "Cor de fundo para as setas (ex: #FFCC00 ou red)"
+
+#~ msgid "by"
+#~ msgstr "por"
+
+#~ msgid "No posts highlighted"
+#~ msgstr "Nenhum post"
+
+#~ msgid "Background color (default: #FFCC00)"
+#~ msgstr "Cor de fundo (padrão: #FFCC00)"
+
+#~ msgid ""
+#~ "Select the display order. Randomize using the same value for multiple "
+#~ "posts."
+#~ msgstr "Selecione a ordem de exibição."
+
+#~ msgid "Delay"
+#~ msgstr "Intervalo"
+
+#~ msgid "Button Color"
+#~ msgstr "Cor do botão"
+
+#~ msgid "The color of the next and previous buttons"
+#~ msgstr "A cor dos botões de próximo e anterior"
+
+#~ msgid "Size"
+#~ msgstr "Tamanho"
+
+#~ msgid ""
+#~ "You can easily create a custom size from the .FLA file available at the "
+#~ "plugin's home page. More info at the README.txt file."
+#~ msgstr ""
+#~ "Você pode facilmente criar um tamanho personlizado a partir do arquivo ."
+#~ "FLA disponível na página do plugin. Mais informações no arquivo README.txt"
+
+#~ msgid "The width of the Flash movie"
+#~ msgstr "A largura da área de destaques"
+
+#~ msgid "The background color of the Flash movie"
+#~ msgstr "A cor de fundo da área de destaques"
